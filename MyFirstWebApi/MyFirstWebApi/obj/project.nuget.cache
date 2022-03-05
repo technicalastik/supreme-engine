@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uaVexwVDSQk96C2ctmhCGctuIVI0S/x/CBcrSm9C0HFZrbxkGFQY2fuDI/Vl9fruCUl1IXEEj48vT6ehq/G29Q==",
+  "success": true,
+  "projectFilePath": "D:\\webapi\\MyFirstWebApi\\MyFirstWebApi\\MyFirstWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
